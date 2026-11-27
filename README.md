@@ -52,18 +52,11 @@
 
 ## Experience
 
-**LinkUp Addis (Afromile Trading PLC)** · Full Stack Developer
-- Built frontend modules for a content-driven social platform: article reader, digital magazine, audio and video.
-- Moved into the backend: added passwordless **email OTP sign-up and login** to a NestJS microservice, integrated with Keycloak and Amazon SES.
-- Run the six-service backend locally with Docker Compose and deploy to an AWS staging server (GitHub Actions → ECR → EC2).
+**Afromile Trading PLC** · Full Stack Developer
 
 **Infra Tech Software Services** · Full Stack Developer Intern
-- Building an AI-enhanced educational platform with classes, assignments and course materials.
-- Integrated Retrieval-Augmented Generation (RAG) for file review and feedback, plus custom quiz generation and progress dashboards.
 
 **Perago Information Systems** · Full Stack Developer Intern
-- Built frontend components and REST APIs for an Electronic Government Procurement (eGP) platform.
-- Resolved 100+ bugs across frontend and backend, and demoed features to stakeholders each sprint.
 
 ## Projects
 
