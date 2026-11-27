@@ -2,11 +2,11 @@
 
 **Software Engineer** based in Addis Ababa, Ethiopia. I build full stack web applications, and lately I spend most of my time on backend services and getting them deployed.
 
-- 🔭 Currently working on **LinkUp Social**, a content platform built as NestJS microservices, and an **AI-enhanced learning platform** at Infra Tech
-- 🌱 Currently deepening my skills in Docker, AWS and microservice deployment
+- 🎓 BSc in Software Engineering, Addis Ababa University
+- 🌱 Currently deepening my skills in AWS and microservice deployment
 - 🧩 400+ problems solved on LeetCode and Codeforces through **A2SV** (Africa to Silicon Valley)
 - 🎤 I organize and host developer events, including the first **Cursor Hackathon in Africa**
-- 🎓 BSc in Software Engineering, Addis Ababa University
+
 
 ## Tech stack
 
