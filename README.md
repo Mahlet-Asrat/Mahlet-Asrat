@@ -52,9 +52,9 @@
 
 ## Experience
 
-**Afromile Trading PLC** · Full Stack Developer
+**Infra Tech Software Services** · Full Stack Developer 
 
-**Infra Tech Software Services** · Full Stack Developer Intern
+**Afromile Trading PLC** · Full Stack Developer
 
 **Perago Information Systems** · Full Stack Developer Intern
 
